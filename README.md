@@ -10,4 +10,7 @@
 - [SnapRAID](https://github.com/amadvance/snapraid) - 异构硬盘数据校验保护
 - [OpenWrt](https://github.com/openwrt/openwrt) - 开源路由器系统原版仓库
 - [iStoreOS](https://github.com/istoreos/istoreos) - 基于OpenWrt、带应用商店的路由NAS系统
-- [Home Assistant](https://github.com/home-assistant/core) - 智能家居中枢（适配你的美的空调、智能插座）
+- [Home Assistant](https://github.com/home-assistant/core) - 智能家居中枢（适配美的空调、智能插座）
+- [Kodi](https://github.com/xbmc/xbmc) - 跨平台影音播放器，CoreELEC底层核心
+- [CoreELEC](https://github.com/CoreELEC/CoreELEC) - 晶晨盒子专用Kodi影音系统
+- [EmuELEC](https://github.com/EmuELEC/EmuELEC) - 晶晨盒子复古游戏机系统
