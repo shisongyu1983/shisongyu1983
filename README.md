@@ -2,4 +2,12 @@
 - [LocalSend](https://github.com/localsend/localsend) - 局域网跨平台文件共享
 - [OBS Studio](https://github.com/obsproject/obs-studio) - 直播推流录屏软件
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 轻量Bitwarden服务端
-
+- [AdGuardHome](https://github.com/AdGuardTeam/AdGuardHome) - 全网DNS广告过滤（软路由常用）
+- [Tailscale](https://github.com/tailscale/tailscale) - 异地组网，远程访问家里NAS/路由
+- [Immich](https://github.com/immich-app/immich) - 自建私人相册，替代百度云相册
+- [Duplicati](https://github.com/duplicati/duplicati) - 加密增量备份工具，NAS备份首选
+- [mergerfs](https://github.com/trapexit/mergerfs) - 多硬盘合并成一个盘（J3455 NAS适合）
+- [SnapRAID](https://github.com/amadvance/snapraid) - 异构硬盘数据校验保护
+- [OpenWrt](https://github.com/openwrt/openwrt) - 开源路由器系统原版仓库
+- [iStoreOS](https://github.com/istoreos/istoreos) - 基于OpenWrt、带应用商店的路由NAS系统
+- [Home Assistant](https://github.com/home-assistant/core) - 智能家居中枢（适配你的美的空调、智能插座）
