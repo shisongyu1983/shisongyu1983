@@ -110,4 +110,17 @@
 ### 📺 影视TV
 - [FongMi/Release](https://github.com/FongMi/Release) - FongMi影视TV 发布仓库
 - [FongMi/TV](https://github.com/FongMi/TV) - FongMi影视TV 源码仓库
+- 饭太硬地址备份：
+http://www.饭太硬.art/tv
+http://www.饭太硬.cc/tv
+http://www.饭太硬.net/tv
+http://www.饭太硬.top/tv
+http://www.饭太硬.com/tv
+http://饭太硬.ga/tv
+http://饭.eu.org/tv
+http://fty.333232.xyz/tv
+http://fty.888484.xyz/tv
+http://fty.xxooo.cf/tv
+
+
 
